@@ -1,7 +1,7 @@
 # Platform: iOS
 
-[![Rust](https://github.com/rust-multiplatform/Compute-Engine-Template/actions/workflows/platform_ios.yml/badge.svg)](https://github.com/rust-multiplatform/Compute-Engine-Template/actions/workflows/platform_ios.yml)
-[![codecov](https://codecov.io/gh/rust-multiplatform/Compute-Engine-Template/branch/main/graph/badge.svg?token=XpGvuQVirP)](https://codecov.io/gh/rust-multiplatform/Compute-Engine-Template)
+[![Rust](https://github.com/rust-multiplatform/Compute-Engine-Example-Image-Creation/actions/workflows/platform_ios.yml/badge.svg)](https://github.com/rust-multiplatform/Compute-Engine-Example-Image-Creation/actions/workflows/platform_ios.yml)
+[![codecov](https://codecov.io/gh/rust-multiplatform/Compute-Engine-Example-Image-Creation/branch/main/graph/badge.svg?token=XpGvuQVirP)](https://codecov.io/gh/rust-multiplatform/Compute-Engine-Example-Image-Creation)
 
 This is the platform-specific project for the platform iOS.  
 Make sure to check the shared crate as we depend on it.
